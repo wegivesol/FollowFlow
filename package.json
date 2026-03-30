@@ -1,0 +1,8 @@
+{
+  "name": "followflow",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "save": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/save-session.ps1"
+  }
+}
