@@ -1,0 +1,21 @@
+﻿# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Env
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.log
+npm-debug.log*
